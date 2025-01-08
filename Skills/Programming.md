@@ -4,26 +4,26 @@
   - Model
   - Modeling
   - Subject domain
-  - Algorithm
-  - Syntax
+  - Algorithm +
+  - Syntax +
   - Semantics
   - Abstraction
   - Paradigm
-  - Programm
+  - Programm +
   - Programming paradigm
-  - Programming language
+  - Programming language +
   - Contract
-  - Module
-  - Library
-  - Package
+  - Module +
+  - Library +
+  - Package +
   - Component
   - Framework
-  - Platform
-  - Source code
-  - Object code
+  - Platform +
+  - Source code +
+  - Object code +
   - Machine code
   - Microcode
-  - Software engineering
+  - Software engineering +
   - Decomposition
   - Control flow
   - Data flow
@@ -32,27 +32,27 @@
   - Don't repeat yourself (DRY)
   - KISS principle
 - Syntax and concepts
-  - Value
-  - Identifier
-  - Variable
-  - Constant
-  - Scalar
-  - Literal
+  - Value +
+  - Identifier +
+  - Variable +
+  - Constant +
+  - Scalar +
+  - Literal +
   - Expression
   - Heap
-  - Function
+  - Function +
   - Procedure
-  - Method
-  - Class
+  - Method +
+  - Class +
   - Prototype
   - Event
-  - Type
+  - Type +
   - Flag
   - Lexical scope
   - Code block
   - Conditions
   - Loops
-  - Assignment
+  - Assignment +
   - Regular expression
   - Interface
   - Namespaces
@@ -93,7 +93,7 @@
   - Higher order
   - Recursion
   - Tail call optimisation
-  - Callback
+  - Callback +
   - Listener
   - Composition
   - Pipe
@@ -105,8 +105,8 @@
   - Generator
   - Coroutine
 - Data structures
-  - Array
-  - Structure
+  - Array +
+  - Structure +
   - Record
   - Enum
   - Instance
@@ -128,7 +128,7 @@
   - Immutable state
   - Serialization
   - String parsing
-  - JSON
+  - JSON +
   - JSON5
   - YAML
 - Networking
@@ -164,8 +164,8 @@
   - Code review
   - Exception
   - Unittesting
-  - git
-  - Github
+  - git +
+  - Github +
   - Docker
   - Kubernetes
   - GCC
@@ -218,7 +218,7 @@
   - Unix
   - BSD
   - MacOS
-  - Windows
+  - Windows +
   - Real-time OS
   - Embedded OS
 - Standards

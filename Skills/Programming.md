@@ -4,26 +4,26 @@
   - Model
   - Modeling
   - Subject domain
-  - Algorithm +
-  - Syntax +
+  - Algorithm: 🎓 known
+  - Syntax: 🎓 known
   - Semantics
   - Abstraction
   - Paradigm
-  - Programm +
+  - Programm: 🎓 known
   - Programming paradigm
-  - Programming language +
+  - Programming language: 🎓 known
   - Contract
-  - Module +
-  - Library +
-  - Package +
+  - Module: 🎓 known
+  - Library: 🎓 known
+  - Package: 🎓 known
   - Component
   - Framework
-  - Platform +
-  - Source code +
-  - Object code +
+  - Platform: 🎓 known
+  - Source code: 🎓 known
+  - Object code: 🎓 known
   - Machine code
   - Microcode
-  - Software engineering +
+  - Software engineering: 🎓 known
   - Decomposition
   - Control flow
   - Data flow
@@ -32,27 +32,27 @@
   - Don't repeat yourself (DRY)
   - KISS principle
 - Syntax and concepts
-  - Value +
-  - Identifier +
-  - Variable +
-  - Constant +
-  - Scalar +
-  - Literal +
+  - Value: 🎓 known
+  - Identifier: 🎓 known
+  - Variable: 🎓 known
+  - Constant: 🎓 known
+  - Scalar: 🎓 known
+  - Literal: 🎓 known
   - Expression
   - Heap
-  - Function +
+  - Function: 🎓 known
   - Procedure
-  - Method +
-  - Class +
+  - Method: 🎓 known
+  - Class: 🎓 known
   - Prototype
   - Event
-  - Type +
+  - Type: 🎓 known
   - Flag
   - Lexical scope
   - Code block
   - Conditions
   - Loops
-  - Assignment +
+  - Assignment: 🎓 known
   - Regular expression
   - Interface
   - Namespaces
@@ -93,7 +93,7 @@
   - Higher order
   - Recursion
   - Tail call optimisation
-  - Callback +
+  - Callback: 🎓 known
   - Listener
   - Composition
   - Pipe
@@ -105,8 +105,8 @@
   - Generator
   - Coroutine
 - Data structures
-  - Array +
-  - Structure +
+  - Array: 🎓 known
+  - Structure: 🎓 known
   - Record
   - Enum
   - Instance
@@ -128,7 +128,7 @@
   - Immutable state
   - Serialization
   - String parsing
-  - JSON +
+  - JSON: 🎓 known
   - JSON5
   - YAML
 - Networking
@@ -164,8 +164,8 @@
   - Code review
   - Exception
   - Unittesting
-  - git +
-  - Github +
+  - git: 🎓 known
+  - Github: 🎓 known
   - Docker
   - Kubernetes
   - GCC
@@ -218,7 +218,7 @@
   - Unix
   - BSD
   - MacOS
-  - Windows +
+  - Windows: 🎓 known
   - Real-time OS
   - Embedded OS
 - Standards

@@ -1,25 +1,25 @@
 ## JavaScript
 
 - Language +
-  - `Object` +
-  - `Function` + 
-  - `Boolean` +
-  - `Number` +
-  - `BigInt` +
-  - `String` +
-  - `Symbol` +
-  - `Infinity` +
-  - `NaN` +
-  - `undefined` +
-  - `null` + 
-  - `this` +
-  - `instanceof` 
-  - `...spread` 
+  - `Object`: 🎓 known
+  - `Function`: 🎓 known
+  - `Boolean`: 🎓 known
+  - `Number`: 🎓 known
+  - `BigInt`: 🎓 known
+  - `String`: 🎓 known
+  - `Symbol`: 🎓 known
+  - `Infinity`: 🎓 known
+  - `NaN`: 🎓 known
+  - `undefined`: 🎓 known
+  - `null`: 🎓 known
+  - `this`: 🎓 known
+  - `instanceof`
+  - `...spread`
   - `...rest`
-  - `typeof` +
+  - `typeof`: 🎓 known
   - Destructuring
   - Generators
-  - Iterators +
+  - Iterators: 🎓 known
   - Async generator
   - Async iterator
   - Chaining
@@ -32,9 +32,9 @@
   - Getters and setters
   - `__proto__`
   - `prototype`
-  - Equality operators +
-  - Logical operators +
-  - Logical Assignment +
+  - Equality operators: 🎓 known
+  - Logical operators: 🎓 known
+  - Logical Assignment: 🎓 known
   - Bitwise operators
   - Ternary operator
   - `void`
@@ -42,9 +42,9 @@
   - `await`
   - Template literal
   - Strict mode
-  - Hoisting +
-  - `delete` +
-  - `in` +
+  - Hoisting: 🎓 known
+  - `delete`: 🎓 known
+  - `in`: 🎓 known
   - `super`
   - `eval`
   - `static`
@@ -59,28 +59,28 @@
   - Private class fields
   - Private class methods
 - Statements
-  - `if` +
-  - `while` +
-  - `do..while` +
-  - `for` +
-  - `for..in` +
+  - `if`: 🎓 known
+  - `while`: 🎓 known
+  - `do..while`: 🎓 known
+  - `for`: 🎓 known
+  - `for..in`: 🎓 known
   - `for..of`
   - `for await`
-  - `throw` +
-  - `break` +
+  - `throw`: 🎓 known
+  - `break`: 🎓 known
   - `continue`
-  - `import` +
-  - `export` +
+  - `import`: 🎓 known
+  - `export`: 🎓 known
   - `label`
   - `try..catch`
-  - `switch` +
-  - `class` +
+  - `switch`: 🎓 known
+  - `class`: 🎓 known
   - `extends`
   - `with`
-  - `new` +
+  - `new`: 🎓 known
 - Functions +
-  - Arrow function +
-  - Async function +
+  - Arrow function: 🎓 known
+  - Async function: 🎓 known
   - Function declaration
   - Function expression
   - Default parameters
@@ -88,9 +88,9 @@
   - `Function.prototype.call`
   - `Function.prototype.bind`
   - `Function.prototype.apply`
-  - `return` +
+  - `return`: 🎓 known
 - Data structures
-  - `Array` +
+  - `Array`: 🎓 known
   - `Map`
   - `Set`
   - `WeakMap`
@@ -104,19 +104,19 @@
   - `Date`
   - `Math`
   - `Reflect`
-  - `Error` +
+  - `Error`: 🎓 known
   - `Atomics`
-  - `JSON` +
+  - `JSON`: 🎓 known
   - `WeakRef`
   - `FinalizationRegistry`
   - `Intl`
   - `Promise`
-  - `console` +
+  - `console`: 🎓 known
   - Timers
 - Infrastructure
   - V8
-  - Node.js +
-  - npm +
-  - prettier +
+  - Node.js: 🎓 known
+  - npm: 🎓 known
+  - prettier: 🎓 known
   - MDN
   - TC39
